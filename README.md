@@ -16,17 +16,17 @@ I'm a **CS student and MERN Stack developer** with a passion for building innova
 ## Skills and Expertise
 🚀 **My expertise lies in the following areas:**
 
-- MERN Stack: MongoDB, Express, React, and Node.js
-* Java programming
-+ Responsive and scalable web application development
-- Clean and efficient coding practices
+- **MERN Stack: MongoDB, Express, React, and Node.js
+* **Java programming
++ **Responsive and scalable web application development
+- **Clean and efficient coding practices
 
 ## Projects
 👨‍💻 **Here are some of my recent projects that showcase my skills as a developer:
 
-Project 1 - Description of Project 1
-Project 2 - Description of Project 2
-Project 3 - Description of Project 3
+- Portfolio - **https://boisterous-mermaid-9e3191.netlify.app/
++ Netflix Clone - https://adorable-biscochitos-00323b.netlify.app/login 
+* React Calculator - https://statuesque-llama-4fdccc.netlify.app/
 ## Interests
 🌟 **Apart from programming, I enjoy:
 
@@ -35,3 +35,4 @@ Project 3 - Description of Project 3
 * Collaborating with other developers on exciting projects
 ## Let's Connect
 📫 Feel free to connect with me on LinkedIn or drop me a message here on GitHub. Let's build something amazing together!
+ https://www.linkedin.com/in/askhan963/ 
