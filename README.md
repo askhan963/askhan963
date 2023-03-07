@@ -10,27 +10,28 @@ askhan963/askhan963 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-Hey there! 👋
-I'm a CS student and MERN Stack developer with a passion for building innovative web applications.
+**Hey there!** 👋
+I'm a **CS student and MERN Stack developer** with a passion for building innovative **web applications.** 
 
-Skills and Expertise
-🚀 My expertise lies in the following areas:
+## Skills and Expertise
+🚀 **My expertise lies in the following areas:**
 
-MERN Stack: MongoDB, Express, React, and Node.js
-Java programming
-Responsive and scalable web application development
-Clean and efficient coding practices
-Projects
-👨‍💻 Here are some of my recent projects that showcase my skills as a developer:
+- MERN Stack: MongoDB, Express, React, and Node.js
+* Java programming
++ Responsive and scalable web application development
+- Clean and efficient coding practices
+
+## Projects
+👨‍💻 **Here are some of my recent projects that showcase my skills as a developer:
 
 Project 1 - Description of Project 1
 Project 2 - Description of Project 2
 Project 3 - Description of Project 3
-Interests
-🌟 Apart from programming, I enjoy:
+## Interests
+🌟 **Apart from programming, I enjoy:
 
-Staying up-to-date with the latest tech industry developments
-Contributing to open-source projects
-Collaborating with other developers on exciting projects
-Let's Connect
+- Staying up-to-date with the latest tech industry developments
++ Contributing to open-source projects
+* Collaborating with other developers on exciting projects
+## Let's Connect
 📫 Feel free to connect with me on LinkedIn or drop me a message here on GitHub. Let's build something amazing together!
