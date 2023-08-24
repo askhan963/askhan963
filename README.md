@@ -24,7 +24,7 @@ I'm a **CS student and MERN Stack developer** with a passion for building innova
 ## Projects
 👨‍💻 **Here are some of my recent projects that showcase my skills as a developer:**
 
-- **Portfolio** - https://boisterous-mermaid-9e3191.netlify.app/
+- **Portfolio** - [Check](https://awaiskhanniazi.netlify.app/)
 - **Netflix Clone** - https://adorable-biscochitos-00323b.netlify.app
 - **React Calculator** - https://statuesque-llama-4fdccc.netlify.app/
 ## Interests
