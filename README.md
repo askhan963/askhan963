@@ -106,7 +106,7 @@ I'm passionate about building innovative web applications.
     </a>
 </p>
 
-
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=askhan963&show_icons=true&locale=en&layout=compact" alt="askhan963" /></p>
 
