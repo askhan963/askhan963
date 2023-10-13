@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 **Hey there!** 👋
 I'm a **CS student and MERN Stack developer** with a passion for building innovative **web applications.** 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=askhan963&label=Profile%20views&color=0e75b6&style=flat" alt="askhan963" /> </p>
 ## Skills and Expertise
 🚀 **My expertise lies in the following areas:**
 
