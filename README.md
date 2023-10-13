@@ -33,9 +33,6 @@ I'm a **CS student and MERN Stack developer** with a passion for building innova
 - Staying up-to-date with the latest tech industry developments
 + Contributing to open-source projects
 * Collaborating with other developers on exciting projects
-## Let's Connect
-📫 **Feel free to connect with me on LinkedIn or drop me a message here on GitHub. Let's build something amazing together!**
- ** https://www.linkedin.com/in/askhan963/  **
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
