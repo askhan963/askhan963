@@ -10,8 +10,8 @@ askhan963/askhan963 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ![MasterHead](https://camo.githubusercontent.com/56362def1bbc81d47e30e00d1f680d6698e05f1175c47957ef4a058ff3a840d5/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966)
+<h1 align="center">Hi 👋, I'm Muhammad Awais Khan</h1>
 
-**Hey there!** 👋
 I'm a **CS student and MERN Stack developer** with a passion for building innovative **web applications.** 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=askhan963&label=Profile%20views&color=0e75b6&style=flat" alt="askhan963" /> </p>
 ## Skills and Expertise
