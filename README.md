@@ -1,37 +1,50 @@
-
 ![MasterHead](https://camo.githubusercontent.com/56362def1bbc81d47e30e00d1f680d6698e05f1175c47957ef4a058ff3a840d5/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966)
-<h1 align="center">Hi 👋, I'm Muhammad Awais Khan</h1>
 
-I'm a **CS student and MERN Stack developer** with a passion for building innovative **web applications.** 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=askhan963&label=Profile%20views&color=0e75b6&style=flat" alt="askhan963" /> </p>
+<h1 align="center">👋 Muhammad Awais Khan</h1>
+<h3 align="center">🖥️ MERN Stack Developer | 🎓 CS Student</h3>
 
-## Skills and Expertise
-🚀 **My expertise lies in the following areas:**
+<p align="center">
+I'm passionate about building innovative web applications. 
+<br/>
+<img src="https://komarev.com/ghpvc/?username=askhan963&label=Profile%20views&color=0e75b6&style=flat" alt="askhan963" />
+</p>
 
-- **MERN Stack: MongoDB, Express, React, and Node.js**
--  **Java programming** 
-- **Responsive and scalable web application development** 
+---
+
+### 🚀 Skills and Expertise
+
+- **MERN Stack**: MongoDB, Express, React, and Node.js
+- **Java programming**
+- **Responsive and scalable web application development**
 - **Clean and efficient coding practices**
 
-## Projects
-👨‍💻 **Here are some of my recent projects that showcase my skills as a developer:**
+---
 
-- **Portfolio** - [Check](https://awaiskhanniazi.netlify.app/)
-- **Netflix Clone** - https://adorable-biscochitos-00323b.netlify.app
-- **React Calculator** - https://statuesque-llama-4fdccc.netlify.app/
-## Interests
-🌟 **Apart from programming, I enjoy:**
+### 👨‍💻 Projects
+
+- **Portfolio** - [View Here](https://awaiskhanniazi.netlify.app/)
+- **Netflix Clone** - [View Here](https://adorable-biscochitos-00323b.netlify.app)
+- **React Calculator** - [View Here](https://statuesque-llama-4fdccc.netlify.app/)
+
+---
+
+### 🌟 Interests
 
 - Staying up-to-date with the latest tech industry developments
-+ Contributing to open-source projects
-* Collaborating with other developers on exciting projects
+- Contributing to open-source projects
+- Collaborating with other developers on exciting projects
 
- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/askhan963/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/askhan963/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/awaisknas963/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/awaisknas963/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/as_khan963/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/as_khan963/" height="30" width="40" /></a>
+---
+
+### 📬 Connect with Me
+
+<p>
+<a href="https://www.linkedin.com/in/askhan963/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/askhan963/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/awaisknas963/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/awaisknas963/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/as_khan963/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/as_khan963/" height="30" width="40" /></a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
