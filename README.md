@@ -3,11 +3,11 @@
 <h1 align="center">👋 Muhammad Awais Khan</h1>
 <h3 align="center">🖥️ MERN Stack Developer | 🎓 CS Student</h3>
 
-<h3 align="center">
+<p align="center">
 I'm passionate about building innovative web applications. 
 <br/>
 <img src="https://komarev.com/ghpvc/?username=askhan963&label=Profile%20views&color=0e75b6&style=flat" alt="askhan963" />
-</h3>
+</p>
 
 ---
 
