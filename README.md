@@ -1,5 +1,5 @@
 
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40oninross%2Fdo-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63&psig=AOvVaw01nKOKYj5U8zw_z8puMulf&ust=1707369880056000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOD52su-mIQDFQAAAAAdAAAAABAE)
+![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif)
 
 
 
