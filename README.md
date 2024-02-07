@@ -1,5 +1,5 @@
 
-![MasterHead](https://camo.githubusercontent.com/56362def1bbc81d47e30e00d1f680d6698e05f1175c47957ef4a058ff3a840d5/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40oninross%2Fdo-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63&psig=AOvVaw01nKOKYj5U8zw_z8puMulf&ust=1707369880056000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOD52su-mIQDFQAAAAAdAAAAABAE)
 
 
 
