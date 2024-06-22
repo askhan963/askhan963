@@ -49,9 +49,8 @@ I'm passionate about building innovative web applications.
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+## **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,expressjs,nodejs,mongodb,firebase,java,c,cs,python,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
-
 
 ---
 
