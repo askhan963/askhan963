@@ -4,10 +4,10 @@
 
 
 <h1 align="center">👋 Muhammad Awais Khan</h1>
-<h3 align="center">🖥️ MERN Stack Developer | 🎓 CS Student</h3>
+<h3 align="center">🖥️ MERN Stack Developer | 🎓 Google Global Solution Challenge 2024 Top 100 Finalist</h3>
 
 <p align="center">
-I'm passionate about building innovative web applications. 
+I'm a passionate developer focused on creating innovative, scalable, and impactful tech solutions. With a strong foundation in web development, AI, and VR, I'm always striving to push the boundaries of technology.
 <br/>
 <img src="https://komarev.com/ghpvc/?username=askhan963&label=Profile%20views&color=0e75b6&style=flat" alt="askhan963" />
 </p>
@@ -16,18 +16,34 @@ I'm passionate about building innovative web applications.
 
 ### 🚀 Skills and Expertise
 
-- **MERN Stack**: MongoDB, Express, React, and Node.js
-- **Java programming**
-- **Responsive and scalable web application development**
-- **Clean and efficient coding practices**
+- **MERN Stack**: MongoDB, Express.js, React.js, Node.js
+- **JavaScript (ES6+), Redux, Tailwind CSS**
+- **Backend Development**: RESTful APIs, Firebase
+- **Frontend Development**: HTML, CSS, React.js, Tailwind CSS
+- **Game Development**: Unity, OpenXR
+- **Database Management**: MongoDB, SQL, Firebase
+- **Problem Solving, Debugging, and Software Project Management**
 
 ---
 
-### 👨‍💻 Projects
+### 👨‍💻 Featured Projects
 
-- **Portfolio** - [View Here](https://awaiskhanniazi.netlify.app/)
-- **Netflix Clone** - [View Here](https://adorable-biscochitos-00323b.netlify.app)
-- **React Calculator** - [View Here](https://statuesque-llama-4fdccc.netlify.app/)
+- **E-Commerce Platform (MERN Stack)** - [View Here](https://github.com/askhan963/ecommerce-platform)
+- **Netflix Clone (MERN Stack)** - [View Here](https://adorable-biscochitos-00323b.netlify.app)
+- **AgriTech (AI + Drones for Agriculture)** - [View Here](https://github.com/GDSC-cuiatd/AgriTech)
+- **Intra Social Chat App (React Native)** - [View Here](https://github.com/askhan963/rn-intra-social)
+- **Installment Management System (React Native)** - [View Here](https://github.com/askhan963/installments-management-system)
+- **VR Math Quest** - Award-winning VR learning experience using Unity and OpenXR
+
+---
+
+### 🌟 Achievements
+
+- **Top 100 Finalist** in **Google Global Solution Challenge 2024** with AgriTech
+- **Appreciation Award** for Final Year Project "VR Math Quest" at COMPEC 2024, NUST
+- **Recipient of PM Laptop** for academic excellence (2023)
+- **Best GDSC Core Team Member** and **Outstanding Performance Shield** in Google Developer Student Club
+
 
 ---
 
