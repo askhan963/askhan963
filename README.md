@@ -74,8 +74,18 @@ I'm a passionate developer focused on creating innovative, scalable, and impactf
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=askhan963&show_icons=true&locale=en" alt="askhan963" /></p>
 
+## 🏆 **My Top Trophies:**  
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=askhan963&theme=onedark&rank=SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=askhan963&" alt="askhan963" /></p>  -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colors=%23FFB3BA,%239F5FEC&height=100&section=footer"/>
 </p> 
 
+ 
