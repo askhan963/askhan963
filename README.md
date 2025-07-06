@@ -1,91 +1,103 @@
-
 ![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif)
 
+<h1 align="center">👋 Hi, I'm Muhammad Awais Khan</h1>
+<h3 align="center">🚀 MERN Stack Developer | React & React Native Specialist | Google Solution Challenge 2024 Top 100 Finalist 🚀</h3>
 
-
-<h1 align="center">👋 Muhammad Awais Khan</h1>
-<h3 align="center">🖥️ MERN Stack Developer | 🎓 Google Global Solution Challenge 2024 Top 100 Finalist</h3>
+<p align="left">
+I'm a Computer Science graduate and a passionate <strong>MERN Stack Developer</strong> with over a year of professional experience in building scalable, user-centric web and mobile applications. Currently, as a <strong>Software Engineer at Tech Avenue</strong>, I'm contributing to high-impact civic-tech platforms like the <strong>My Islamabad App</strong> and <strong>CDA Citizen Portal</strong>, enhancing public service delivery through modern tech.
+<br/><br/>
+My journey includes leading frontend development for startup MVPs at Websters, mentoring 30+ peers as the <strong>Web Development Lead at GDSC COMSATS</strong>, and leading my team to become a <strong>Top 100 Finalist in the Google Solution Challenge 2024</strong>. I'm driven by solving real-world problems with clean, efficient code and am currently deepening my expertise in <strong>TypeScript</strong> and <strong>System Design</strong>.
+</p>
 
 <p align="center">
-I'm a passionate developer focused on creating innovative, scalable, and impactful tech solutions. With a strong foundation in web development, AI, and VR, I'm always striving to push the boundaries of technology.
-<br/>
-<img src="https://komarev.com/ghpvc/?username=askhan963&label=Profile%20views&color=0e75b6&style=flat" alt="askhan963" />
+  <img src="https://komarev.com/ghpvc/?username=askhan963&label=Profile%20Views&color=0e75b6&style=flat" alt="askhan963" />
 </p>
 
 ---
 
-### 🚀 Skills and Expertise
+### 📫 Let's Connect!
 
-- **MERN Stack**: MongoDB, Express.js, React.js, Node.js
-- **JavaScript (ES6+), Redux, Tailwind CSS**
-- **Backend Development**: RESTful APIs, Firebase
-- **Frontend Development**: HTML, CSS, React.js, Tailwind CSS
-- **Game Development**: Unity, OpenXR
-- **Database Management**: MongoDB, SQL, Firebase
-- **Problem Solving, Debugging, and Software Project Management**
-
----
-
-### 👨‍💻 Featured Projects
-
-- **E-Commerce Platform (MERN Stack)** - [View Here](https://github.com/askhan963/ecommerce-platform)
-- **Netflix Clone (MERN Stack)** - [View Here](https://adorable-biscochitos-00323b.netlify.app)
-- **AgriTech (AI + Drones for Agriculture)** - [View Here](https://github.com/GDSC-cuiatd/AgriTech)
-- **Intra Social Chat App (React Native)** - [View Here](https://github.com/askhan963/rn-intra-social)
-- **Installment Management System (React Native)** - [View Here](https://github.com/askhan963/installments-management-system)
-- **VR Math Quest** - Award-winning VR learning experience using Unity and OpenXR
-
----
-
-### 🌟 Achievements
-
-- **Top 100 Finalist** in **Google Global Solution Challenge 2024** with AgriTech
-- **Appreciation Award** for Final Year Project "VR Math Quest" at COMPEC 2024, NUST
-- **Recipient of PM Laptop** for academic excellence (2023)
-- **Best GDSC Core Team Member** and **Outstanding Performance Shield** in Google Developer Student Club
-
-
----
-
-### 🌟 Interests
-
-- Staying up-to-date with the latest tech industry developments
-- Contributing to open-source projects
-- Collaborating with other developers on exciting projects
-
----
-
-### 📬 Connect with Me
-
-<p>
-<a href="https://www.linkedin.com/in/askhan963/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/askhan963/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/awaisknas963/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/awaisknas963/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/as_khan963/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/as_khan963/" height="30" width="40" /></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/askhan963/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://awaiskhanniazi.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=netlify&logoColor=61DAFB" alt="Portfolio"/>
+  </a>
+  <a href="http://linktr.ee/askhan963" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
+  </a>
+  <a href="mailto:awaiskhanniazi963@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
 ---
 
-## **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,expressjs,nodejs,mongodb,firebase,java,c,cs,python,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
+### 🛠️ My Tech Stack
+
+- **Frontend:** React.js, React Native, Next.js, Redux, HTML5, CSS3, Tailwind CSS
+- **Backend:** Node.js, Express.js, RESTful APIs, JWT
+- **Databases:** MongoDB, Firebase, SQL
+- **Languages:** JavaScript (ES6+), TypeScript, Java
+- **Tools & Platforms:** Git, GitHub, VS Code, Postman, Firebase, GCP, Netlify, Vercel
+
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,nodejs,express,mongodb,firebase,js,ts,java,git,github,vscode,postman,html,css&perline=10" alt="My Skills"/>
+  </a>
+</p>
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=askhan963&show_icons=true&locale=en&layout=compact" alt="askhan963" /></p>
+### 👨‍💻 Featured Professional & Personal Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=askhan963&show_icons=true&locale=en" alt="askhan963" /></p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>My Islamabad App (React Native)</h3>
+      <p>Contributed to a major civic mobile app for Islamabad's citizens. I was responsible for developing the <strong>Parking and Health modules</strong>, redesigning the UI for a better user experience, and implementing Firebase push notifications, which helped improve the app's rating from 2.4 to 3.4.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>CDA Citizen Portal (React.js)</h3>
+      <p>Developed key components for a web portal offering role-based access to citizens, operators, and admins. My work focused on the <strong>One-Window Operations (OWO) module</strong> and the <strong>Content Management System (CMS)</strong>, enhancing public service delivery.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>iSeeWell - Eye Care Platform (React.js, Next.js)</h3>
+      <p>Led the frontend development for an MVP eye care platform. Built a responsive, multi-role UI featuring real-time clinic search, appointment booking, and staff management, integrated with a NestJS backend.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>AgriTech (AI/ML, Flutter)</h3>
+      <p>An innovative, award-winning project aimed at improving agricultural productivity. This AI-powered app assists farmers with real-time crop disease detection using drone imagery. <strong>Top 100 Finalist - Google Solution Challenge 2024</strong>. <a href="https://github.com/GDSC-cuiatd/AgriTech"><strong>View on GitHub</strong></a></p>
+    </td>
+  </tr>
+</table>
 
-## 🏆 **My Top Trophies:**  
+---
 
+### 🏆 Achievements & Recognition
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=askhan963&theme=onedark&rank=SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+- **Google Solution Challenge 2024**: Led team AgriTech to become a **Global Top 100 Finalist**.
+- **GDSC Web Development Lead**: Mentored 30+ students, organized numerous workshops, and led teams to victory in multiple hackathons.
+- **Award for Final Year Project**: Received an appreciation award for "VR Math Quest" at COMPEC 2024, NUST.
+- **Academic & Community Excellence**: Awarded "Best GDSC Core Team Member" and received a Prime Minister's Laptop for academic merit.
 
+---
 
+### 📊 My GitHub Stats & Trophies
 
-
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=askhan963&" alt="askhan963" /></p>  -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colors=%23FFB3BA,%239F5FEC&height=100&section=footer"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=askhan963&show_icons=true&locale=en&theme=tokyonight" alt="askhan963's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=askhan963&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="askhan963's Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=askhan963&theme=onedark&rank=SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colors=%23FFB3BA,%239F5FEC&height=100§ion=footer"/>
 </p> 
-
- 
