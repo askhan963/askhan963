@@ -1,7 +1,9 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif)
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="MasterHead">
+</p>
 
 <h1 align="center">👋 Hi, I'm Muhammad Awais Khan</h1>
-<h3 align="center">🚀 MERN Stack Developer | React & React Native Specialist | Google Solution Challenge 2024 Top 100 Finalist 🚀</h3>
+<h3 align="center">🚀 MERN Stack Developer | React & React Native | Google Solution Challenge 2024 Top 100 Finalist 🚀</h3>
 
 <p align="left">
 I'm a Computer Science graduate and a passionate <strong>MERN Stack Developer</strong> with over a year of professional experience in building scalable, user-centric web and mobile applications. Currently, as a <strong>Software Engineer at Tech Avenue</strong>, I'm contributing to high-impact civic-tech platforms like the <strong>My Islamabad App</strong> and <strong>CDA Citizen Portal</strong>, enhancing public service delivery through modern tech.
