@@ -98,7 +98,7 @@ My journey includes leading frontend development for startup MVPs at Websters, m
   <img src="https://github-profile-trophy.vercel.app/?username=askhan963&theme=onedark&rank=SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
 </p>
 
----
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colors=%23FFB3BA,%239F5FEC&height=100§ion=footer"/>
